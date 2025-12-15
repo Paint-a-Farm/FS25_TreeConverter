@@ -13,14 +13,14 @@ Usage: Open the in-game map and select "Trees" from the dropdown. Use the filter
 
 Console commands: tcConvert, tcConvertRadius, tcConvertAll, tcConvertSelected, tcCount
 
-GitHub: https://github.com/paintafarm/FS25_TreeConverter]]></en>
+GitHub: https://github.com/Paint-a-Farm/FS25_TreeConverter]]></en>
         <de><![CDATA[Beschreibung: Konvertiert statische Kartenbäume in gepflanzte Bäume für ordentliche Forstwirtschaft. Konvertierte Bäume werden im Spielstand gespeichert und können weiterwachsen, wenn sie noch nicht ausgewachsen sind.
 
 Verwendung: Öffne die Spielkarte und wähle "Trees" aus dem Dropdown. Verwende die Filterliste, um Baumtypen auszuwählen, und klicke dann auf "Ausgewählte konvertieren".
 
 Konsolenbefehle: tcConvert, tcConvertRadius, tcConvertAll, tcConvertSelected, tcCount
 
-GitHub: https://github.com/paintafarm/FS25_TreeConverter]]></de>
+GitHub: https://github.com/Paint-a-Farm/FS25_TreeConverter]]></de>
     </description>
     <iconFilename>icon.dds</iconFilename>
     <multiplayer supported="true"/>
