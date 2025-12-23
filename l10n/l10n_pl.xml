@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <translationContributors>Ziuta</translationContributors>
+    <texts>
+        <!-- Map overlay -->
+        <text name="tc_mapSelector_trees" text="Drzewa"/>
+        <text name="tc_button_convertSelected" text="Przekształć wybrane"/>
+
+        <!-- Warnings/Messages -->
+        <text name="tc_warning_noTypesSelected" text="Nie wybrano rodzaju drzew"/>
+        <text name="tc_warning_noStaticTrees" text="Brak statycznych drzew do przekształcenia"/>
+        <text name="tc_confirm_convert" text="Przekształcić %d statycznych drzew na %d wybranych typów?"/>
+        <text name="tc_message_converted" text="Przekształcono %d drzew. Zapisz grę, aby zachować zmiany!"/>
+
+        <!-- Console command descriptions -->
+        <text name="tc_console_convert" text="Przekształć drzewa statyczne na drzewa posadzone (promień 50m)"/>
+        <text name="tc_console_convertRadius" text="Przekształć statyczne drzewa w promieniu wokół gracza"/>
+        <text name="tc_console_convertAll" text="Przekształć WSZYSTKIE statyczne drzewa na mapie (może to chwilę potrwać)"/>
+        <text name="tc_console_convertSelected" text="Przekształć drzewa typów wybranych w menu"/>
+        <text name="tc_console_count" text="Policz statyczne drzewa w promieniu wokół gracza"/>
+    </texts>
+</l10n>
