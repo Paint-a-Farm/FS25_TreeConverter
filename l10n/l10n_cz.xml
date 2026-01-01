@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <!-- Map overlay -->
+        <text name="tc_mapSelector_trees" text="Stromy"/>
+        <text name="tc_button_convertSelected" text="Převést vybrané"/>
+
+        <!-- Warnings/Messages -->
+        <text name="tc_warning_noTypesSelected" text="Nejsou vybrány žádné typy stromů"/>
+        <text name="tc_warning_noStaticTrees" text="Žádné statické stromy k převodu"/>
+        <text name="tc_confirm_convert" text="Převést %d statických stromů z %d vybraných typů?"/>
+        <text name="tc_message_converted" text="Převedeno %d stromů. Uložte hru, aby se změny trvale uložily!"/>
+
+        <!-- Console command descriptions -->
+        <text name="tc_console_convert" text="Převést statické stromy na vysázené stromy (poloměr 50 m)"/>
+        <text name="tc_console_convertRadius" text="Převést statické stromy v okruhu kolem hráče"/>
+        <text name="tc_console_convertAll" text="Převést VŠECHNY statické stromy na mapě (může chvíli trvat)"/>
+        <text name="tc_console_convertSelected" text="Převést stromy typů vybraných v překryvu mapy"/>
+        <text name="tc_console_count" text="Spočítat statické stromy v okruhu kolem hráče"/>
+    </texts>
+</l10n>
